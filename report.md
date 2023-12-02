@@ -29,7 +29,7 @@ if( isset( $_GET[ 'Submit' ] ) ) {
 </pre>
 <p>Результат статического анализа доступен по ссылке</p>
 <pre>
-https://github.com/fokypoky/BruteforceDVWA/blob/main/analyze-result.png
+https://github.com/fokypoky/SQLInjection/blob/main/analyze-result.png
 </pre>
 
 <h3>Задание №2. Проанализировать код и сделать кодревью, указав слабые места</h3>
